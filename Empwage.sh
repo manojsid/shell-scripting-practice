@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Wecome to employee wage problem"
+echo " Hello, Wecome to employee wage problem"
